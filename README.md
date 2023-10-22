@@ -1,7 +1,7 @@
 # gpu-miner
 `#` lệnh 1 hit
 
-    curl -O https://raw.githubusercontent.com/mjhmojthu/gpu-miner-Vast.ai/main/install.sh && chmod +x install.sh && ./install
+    curl -O https://raw.githubusercontent.com/mjhmojthu/gpu-miner-Vast.ai/main/install.sh && chmod +x install.sh && ./install.sh
 
 # Aleo on docker
 
